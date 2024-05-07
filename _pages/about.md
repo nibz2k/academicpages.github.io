@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Munib Inam and I am a PhD student at the Department of Agricultural Economics, University of Kentucky. For my PhD thesis, I am working on extreme weather events and their impact on agricultural and water resources.
+My name is Munib Inam and I am a PhD student at the Department of Agricultural Economics, University of Kentucky. I am working on various research projects mainly focusing on extreme weather events and their impact on agricultural and water resources in the United States.
 
-Brief background intro:
+Brief background intro here:
 
 Upload some current work here:
 
