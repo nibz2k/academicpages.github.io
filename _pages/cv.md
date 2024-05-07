@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Agricultural Economics, University of Kentucky, 2025 (expected)
+* Visiting Graduate Student, Public Policy, University of California Riverside, 2022
+* M.S. in Economics, Vanderbilt University, 2020
+* B.S. in Economics, National University of Sciences and Technology, 2017
 
-Work experience
+References
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Steven Buck
+  University of Kentucky
+  steven.buck@uky.edu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nicholas Pates
+  University of Kentucky
+  nicholas.pates@uky.edu
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mehdi Nemati
+  University of California
+  mehdin@ucr.edu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Research Fields
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Applied Econometrics, Agricultural Economics, Environmental & Resource Economics
+
+Working Papers
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+**Inam, M** (2023). Measuring Extreme Weather and its Effects on Agriculture in the United States (Job Market Paper).
+
+**Inam, M**, Buck, S. (2023). Modeling Uncertainty in the Effects of Climate Change on Agricultural Land and Water Use.
+
+**Inam, M**, Nemati M, Buck S. (2023). Heterogeneous Effects of Housing Lot Size Composition on Water Consumption: Evidence from Water Agencies in California.
+
+**Inam, M**, Buck S. (2022). The Impact of Extreme Weather Events on Water Quality in the U.S.
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+2023 - Primary Instructor for International Trade (Undergraduate), Department of Agricultural Economics, University of Kentucky, Lexington, KY, USA
+
+2022 - Teaching Assistant for Environmental and Resource Economics, Department of Agricultural Economics, University of Kentucky, Lexington, KY, USA
+
+Professional Activities
 ======
-* Currently signed in to 43 different slack teams
+Assistant Coordinator, Water Challenges in a Water Scarce World Conference, Fort Collins, CO.
+  
+Technical Skills
+======
+R-Studio, Python, STATA, SPSS, Mathematica.
