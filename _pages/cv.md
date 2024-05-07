@@ -20,15 +20,15 @@ References
 ======
 * Steven Buck
   * University of Kentucky
-  * steven.buck@uky.edu
+  * email: steven.buck@uky.edu
 
 * Nicholas Pates
   * University of Kentucky
-  * nicholas.pates@uky.edu
+  * email: nicholas.pates@uky.edu
 
 * Mehdi Nemati
   * University of California
-  * mehdin@ucr.edu
+  * email: mehdin@ucr.edu
   
 
 Research Fields
