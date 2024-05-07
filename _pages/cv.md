@@ -19,16 +19,16 @@ Education
 References
 ======
 * Steven Buck
-** University of Kentucky
-** steven.buck@uky.edu
+  * University of Kentucky
+  * steven.buck@uky.edu
 
 * Nicholas Pates
-** University of Kentucky
-** nicholas.pates@uky.edu
+  * University of Kentucky
+  * nicholas.pates@uky.edu
 
 * Mehdi Nemati
-** University of California
-** mehdin@ucr.edu
+  * University of California
+  * mehdin@ucr.edu
   
 
 Research Fields
