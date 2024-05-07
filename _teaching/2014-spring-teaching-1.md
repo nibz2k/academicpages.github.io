@@ -1,14 +1,14 @@
 ---
-title: "Primary Instructor"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Kentucky"
-date: Fall, 2023
+date: Fall, 2022
 location: "Lexington, KY"
 ---
 
-Primary Instructor for Interenational Trade.
+Teaching Assistant for Environmental Economics.
 
 Heading 1
 ======
